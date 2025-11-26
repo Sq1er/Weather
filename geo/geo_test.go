@@ -1,8 +1,8 @@
 package geo_test
 
 import (
-	"Weather/geo"
 	"testing"
+	"weather/geo"
 )
 
 func TestGetMyLocation(t *testing.T) {

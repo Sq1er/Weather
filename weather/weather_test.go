@@ -1,10 +1,10 @@
 package weather_test
 
 import (
-	"Weather/geo"
-	"Weather/weather"
 	"strings"
 	"testing"
+	"weather/geo"
+	"weather/weather"
 )
 
 func TestGetWeather(t *testing.T) {

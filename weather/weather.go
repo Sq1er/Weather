@@ -1,12 +1,12 @@
 package weather
 
 import (
-	"Weather/geo"
 	"errors"
 	"fmt"
 	"io"
 	"net/http"
 	"net/url"
+	"weather/geo"
 )
 
 var ErrWrongFormat = errors.New("wrong_format")

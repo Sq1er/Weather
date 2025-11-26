@@ -1,11 +1,11 @@
 package main
 
 import (
-	"Weather/geo"
-	"Weather/weather"
 	"flag"
 	"fmt"
 	"os"
+	"weather/geo"
+	"weather/weather"
 )
 
 func main() {

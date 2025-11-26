@@ -1,4 +1,4 @@
-# Weather
+# weather
 
 ## 1. Описание
 
@@ -31,8 +31,8 @@
 
 1. Клонируйте репозиторий:
 ```powershell
-git clone https://github.com/Sq1er/Weather.git
-cd Weather
+git clone https://github.com/sq1er/weather.git
+cd weather
 ```
 
 ---
@@ -49,7 +49,7 @@ go run .
 Сборка и запуск исполняемого файла:
 ```powershell
 go build
-.\Weather.exe
+.\weather.exe
 ```
 
 ### Доступные флаги
